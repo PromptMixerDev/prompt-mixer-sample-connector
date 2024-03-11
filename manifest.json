@@ -1,9 +1,9 @@
 {
-	"id": "prompt-mixer-ollama-connector",
-	"name": "Ollama Connector",
+	"id": "prompt-mixer-sample-connector",
+	"name": "Sample Prompt Mixer Connector",
 	"version": "1.0.0",
 	"minAppVersion": "0.1.0",
-	"description": "Connector for model installed by Ollama",
+	"description": "This is a sample connector to demonstrate the Prompt Mixer connector API. It does not connect to any external service.",
 	"author": "Prompt Mixer",
 	"authorUrl": "",
 	"fundingUrl": "",
